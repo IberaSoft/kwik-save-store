@@ -1,0 +1,11 @@
+Hej
+
+Ny log-besked.
+
+Uheldigvis er der blevet oprettet en ny log-besked.
+
+Du kan tjekke dette i dit Bagkontor > Værktøjer > Log på vores hjemmeside.
+
+{shop_name} - {shop_url}
+
+{shop_url} powered by PrestaShop™

@@ -1,0 +1,103 @@
+<table style="font-family: Verdana,sans-serif; font-size: 11px; color: #374953; width: 550px;" border="0">
+<tbody>
+<tr>
+<td align="left"><a title="{shop_name}" href="{shop_url}"><img style="border:none;" src="{shop_logo}" alt="{shop_name}" /></a></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">Hola <strong>{firstname} {lastname}</strong>, gracias por mercar en <strong>{shop_name}</strong>.</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color:#DB3484; color:#FFF; font-size: 12px; font-weight:bold; padding: 0.5em 1em;" align="left">Detalles do Pedido</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">Pedido: <strong><span style="color:#DB3484;">{order_name}</span> realizado o {date}</strong> <br />Forma de Pago: <strong>{payment}</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">{products} 						{discounts} 					
+<table style="width: 100%; font-size: 11px; color: #374953;" border="0">
+<!-- Title --> 
+<tbody>
+<tr style="background-color:#B9BABE; text-align:center;">
+<th style="width: 15%; padding: 1em 0;">Referencia</th> <th>Produto</th> <th style="width: 15%;">Prezo Unidade</th> <th style="width: 15%;">Cantidade</th> <th style="width: 20%;">Prezo Total</th>
+</tr>
+<!-- Products --><!-- Footer: prices --> 
+<tr style="text-align:right;">
+<td>&nbsp;</td>
+<td style="background-color:#B9BABE; padding:0.6em 0.4em;" colspan="3">Produtos</td>
+<td style="background-color:#B9BABE; padding:0.6em 0.4em;">{total_products}</td>
+</tr>
+<tr style="text-align:right;">
+<td>&nbsp;</td>
+<td style="background-color:#EBECEE; padding:0.6em 0.4em;" colspan="3">Descontos</td>
+<td style="background-color:#EBECEE; padding:0.6em 0.4em;">{total_discounts}</td>
+</tr>
+<tr style="text-align:right;">
+<td>&nbsp;</td>
+<td style="background-color:#DDE2E6; padding:0.6em 0.4em;" colspan="3">Env&iacute;os</td>
+<td style="background-color:#DDE2E6; padding:0.6em 0.4em;">{total_shipping}</td>
+</tr>
+<tr style="text-align:right; font-weight:bold;">
+<td>&nbsp;</td>
+<td style="background-color:#F1AECF; padding:0.6em 0.4em;" colspan="3">TOTAL</td>
+<td style="background-color:#F1AECF; padding:0.6em 0.4em;">{total_paid}</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color:#DB3484; color:#FFF; font-size: 12px; font-weight:bold; padding: 0.5em 1em;" align="left">Shipping</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">Transporte: <strong>{carrier}</strong></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table style="width: 100%; font-size: 11px; color: #374953;" border="0">
+<tbody>
+<tr style="background-color:#B9BABE; text-transform:uppercase;">
+<th style="text-align:left; padding: 0.3em 1em;">enderezo de Entrega</th> <th style="text-align:left; padding: 0.3em 1em;">enderezo de Facturaci&oacute;n</th>
+</tr>
+<tr>
+<td style="padding:0.5em 0 0.5em 0.5em; background-color:#EBECEE;"><span style="color:#DB3484; font-weight:bold;">{delivery_firstname} {delivery_lastname}</span> <br />{delivery_address1} 							<br />{delivery_address2} 							<br />{delivery_city} {delivery_postal_code} 							<br />{delivery_country} 							<br />{delivery_phone}</td>
+<td style="padding:0.5em 0 0.5em 0.5em; background-color:#EBECEE;"><span style="color:#DB3484; font-weight:bold;">{invoice_firstname} {invoice_lastname}</span> <br />{invoice_address1} 							<br />{invoice_address2} 							<br />{invoice_city} {invoice_postal_code} 							<br />{invoice_country} 							<br />{invoice_phone}</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td align="left">Podes revisar o teu pedido e descargar a factura aqu&iacute;: <a style="color:#DB3484; font-weight:bold; text-decoration:none;" href="{shop_url}history.php">"Historial de Pedidos"</a> dentro da tua conta <a style="color:#DB3484; font-weight:bold; text-decoration:none;" href="{shop_url}my-account.php">"Entrar na Mi&ntilde;a Conta"</a> do noso sitio web.</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="font-size:10px; border-top: 1px solid #D9DADE;" align="center"><a style="color:#DB3484; font-weight:bold; text-decoration:none;" href="{shop_url}">{shop_name}</a> powered with <a style="text-decoration:none; color:#374953;" href="http://www.prestashop.com/">PrestaShop&trade;</a></td>
+</tr>
+</tbody>
+</table>

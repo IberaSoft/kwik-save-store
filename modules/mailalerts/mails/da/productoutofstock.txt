@@ -1,0 +1,11 @@
+Hej
+
+{product} er snart udsolgt. Antallet af enheder på lager er blevet mindre end {last_qty}.
+
+Enheder på lager: {qty}
+
+Husk at opdatere antallet af enheder i administrationsdelen, når lageret bliver fyldt op igen.
+ 
+
+
+{shop_url} powered by PrestaShop™

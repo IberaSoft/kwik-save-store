@@ -1,0 +1,9 @@
+Hej {firstname} {lastname}
+
+{shop_name} ønsker dig til lykke med fødselsdagen og har en gave til dig.
+
+Vi har en overraskelse til dig... Log ind på din konto nu og se din rabatkupon!
+Vi håber du får glæde af den!
+
+
+{shop_url} Powered by PrestaShop™

@@ -1,0 +1,22 @@
+﻿Hola {firstname} {lastname},
+
+La seva comanda nº {id_order} s'ha rebut correctament i s'enviarà tan aviat com rebem la notificació del pagament. Recordi que ha sol.licitat efectuar el pagament mitjançant transferència bancària.
+
+Si us plau, faci la seva transferència a:
+- {bankwire_owner}
+
+- {bankwire_details}
+
+- {bankwire_address}
+
+La quantitat total de la comanda és de {total_paid}
+
+Pot revisar aquesta comanda i descarregar la factura des de la secció
+"Historial i detalls de les seves comandes" del seu compte prement 
+sobre "El meu compte" a la nostra pàgina web.
+
+Gràcies per comprar a {shop_name}.
+
+{shop_name} - {shop_url}
+
+{shop_name} gestionada amb PrestaShop™

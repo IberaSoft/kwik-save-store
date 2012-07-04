@@ -1,0 +1,13 @@
+Hej {firstname} {lastname},
+ 
+Vi meddeler dig hermed om genereringen af en rabatkupon med dit navn på i forbindelse med din sponsering.
+ 
+Her er koden for rabatkuponen : {voucher_num}, med et beløb på {voucher_amount} kr.
+
+Kopier ganske enkelt koden ind ved næste indkøbskurv, før du betaler for ordren.
+
+Tak fordi du handler hos {shop_name}.
+
+
+
+{shop_url} powered by PrestaShop™

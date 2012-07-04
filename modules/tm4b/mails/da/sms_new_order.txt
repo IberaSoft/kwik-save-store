@@ -1,0 +1,5 @@
+{shop_name}
+Kunde: {firstname} {lastname}
+Ordre: {order_name}
+Betaling: {payment}
+I alt: ({total_paid} {currency})

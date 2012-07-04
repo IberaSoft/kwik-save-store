@@ -1,0 +1,12 @@
+Hej {firstname} {lastname}
+
+Der er et problem med din betaling på ordre #{id_order}. Kontakt os venligst ved nærmeste lejlighed.
+
+Din ordre vil blive afsendt, når vi har løst problemet.
+
+Du kan se din ordre og downloade din faktura i sektionen"Ordreoversigt" under din konto ved at klikke på "Min konto" fra vores hjemmeside.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

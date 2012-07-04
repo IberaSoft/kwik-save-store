@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>newslettertabmodule</name>
+	<displayName><![CDATA[Newsletter tab module]]></displayName>
+	<version><![CDATA[1]]></version>
+	<description><![CDATA[Adss newsletter functionality to the system]]></description>
+	<author><![CDATA[www.smaizys.com]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall>Are you sure you want me to keep away from displaying content?</confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,12 @@
+Din besked er blevet sendt til vores Kundeservice.
+
+Din besked:
+
+{message}
+
+
+Vi svarer snarest muligt.
+
+Med venlig hilsen,
+
+{shop_url} powered by PrestaShop™

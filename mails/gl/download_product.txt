@@ -1,0 +1,12 @@
+﻿{firstname} {lastname}, gracias por mercar en {shop_name}!
+
+Ten {nbProducts} produto(s) para descargar.
+
+Este é o acceso directo:
+{virtualProducts}
+
+
+Pode revisar este recibo e descargar a sua factura dende a sección:Seguimento do Pedido; da sua conta pulsando aquí;A miña conta; na nosa web.
+
+
+{shop_url} powered by PrestaShop&trade;

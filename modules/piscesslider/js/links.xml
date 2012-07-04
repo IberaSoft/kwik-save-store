@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<links>
+	<link>
+		<url>product.php?id_product=12</url>
+		<desc>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea co.&lt;br /&gt;Donec malesuada urna sed orci porttitor ullamcorper. Vestibulum eu purus purus. Praesent euismod ultricies nulla, vel pellentesque est commodo a. Phasellus mattis eleifend purus, lobortis commodo velit faucibus vel.</desc>
+		<img>slides/slide_00.jpg</img>
+	</link>
+	<link>
+		<url>category.php?id_category=5</url>
+		<desc>Donec malesuada urna sed orci porttitor ullamcorper. Vestibulum eu purus purus. Praesent euismod ultricies nulla, vel pellentesque est commodo a. Phasellus mattis eleifend purus, lobortis commodo velit faucibus vel.&lt;br /&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</desc>
+		<img>slides/slide_01.jpg</img>
+	</link>
+	<link>
+		<url>product.php?id_product=7</url>
+		<desc>Sed bibendum, orci sed fermentum malesuada, sem nulla pretium elit, a eleifend turpis elit non erat. Vestibulum aliquet libero nec odio consectetur non sollicitudin enim molestie. Nullam lacus tortor, sollicitudin id accumsan a, semper at dui.&lt;br /&gt;Quisque leo eros, rhoncus ac aliquam in, mollis at odio. Donec sapien sapien, vehicula sit amet accumsan in, ullamcorper ut mi. Donec scelerisque arcu nec urna condimentum condimentum.</desc>
+		<img>slides/slide_02.jpg</img>
+	</link>
+	<link>
+		<url>product.php?id_product=5</url>
+		<desc>Quisque leo eros, rhoncus ac aliquam in, mollis at odio. Donec sapien sapien, vehicula sit amet accumsan in, ullamcorper ut mi. Donec scelerisque arcu nec urna condimentum condimentum. Nam ut libero mi, sit amet blandit orci.&lt;br /&gt;Sed bibendum, orci sed fermentum malesuada, sem nulla pretium elit, a eleifend turpis elit non erat. Vestibulum aliquet libero nec odio consectetur non sollicitudin enim molestie.</desc>
+		<img>slides/slide_03.jpg</img>
+	</link>
+</links>

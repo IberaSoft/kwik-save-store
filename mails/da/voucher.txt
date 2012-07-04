@@ -1,0 +1,14 @@
+Hej {firstname} {lastname}
+
+Vi informerer dig hermed om oprettelse af et gavekort i dit navn på ordre #{id_order}.
+
+Her er din gavekortkode: {voucher_num}, med et beløb på {voucher_amount}.
+
+Indtast blot koden under din indkøbskurv, når du handler næste gang.
+
+Tak fordi du handler hos {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

@@ -1,0 +1,11 @@
+Vi savner dig hos {shop_name}
+
+Hej {firstname} {lastname}
+
+Du er en af vores bedste kunder, men du har ikke købt noget de sidste {days_threshold} dage.
+
+Vi vil gerne takke dig for den tillid du viser os, så vi yder dig en rabat på {amount}% ved din næste ordre! Dette tilbud gælder i {days} dage, så spild ikke tiden!
+ 
+Her er din rabatkupon: {voucher_num}
+
+Indtast denne kode ved din indkøbskurv for at få din rabat.

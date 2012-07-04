@@ -1,0 +1,8 @@
+Webshoppen {shop_url} har deaktiveret sit Twenga-modul.
+
+Vedrørende landet {shop_country} og PrestaShop for den handlende.
+
+Sælgeren er {trader_email}
+
+
+PrestaShop-holdet

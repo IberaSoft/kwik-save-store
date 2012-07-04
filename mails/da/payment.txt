@@ -1,0 +1,14 @@
+Hej {firstname} {lastname}
+		
+Status på din ordre #{id_order}.
+	
+Din betaling er nu behandlet i vores system.
+
+Du kan se din ordre og downloade din faktura i sektionen"Ordreoversigt" under din konto ved at klikke på "Min konto" fra vores hjemmeside.
+
+Tak fordi du handler hos {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

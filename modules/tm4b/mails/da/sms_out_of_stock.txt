@@ -1,0 +1,5 @@
+{shop_name}
+Den vare er tæt på at være udsolgt:
+Ref: {product_ref}
+Id: {product_id}
+Antal: {qty}

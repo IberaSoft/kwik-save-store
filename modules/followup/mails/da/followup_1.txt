@@ -1,0 +1,13 @@
+Hej {firstname} {lastname},
+ 
+Ved dit sidste besøg hos {shop_name}, lagde vi mærke til, at du ikke gennemførte, hvad du startede på.
+
+Din kurv er blevet gemt, så du kan genoptage din ordre ved at besøge vores webshop:
+
+{shop_url}
+
+Undtagelsvis  yder vi en rabat på {amount}% ved din næste ordre! Dette tilbud gælder i {days} dage, så spild ikke tiden!
+ 
+Her er din rabatkupon: {voucher_num}
+
+Indtast denne kode ved din indkøbskurv for at få din rabat.

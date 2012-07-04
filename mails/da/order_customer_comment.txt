@@ -1,0 +1,8 @@
+Hej {firstname} {lastname}
+
+Du har modtaget en ny besked angående ordre #{id_order}:  
+
+{message}
+
+
+{shop_url} powered by PrestaShop™

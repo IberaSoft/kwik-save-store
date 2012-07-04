@@ -1,0 +1,20 @@
+Hej {firstname} {lastname}
+
+Din ordre #{id_order} er blevet placeret og vil blive afsendt, når vi har modtaget din betaling.
+
+Du har valgt at betale med check. Vedrørende checken:
+
+- Det totale beløb er {total_paid} 
+
+- Du skal stile checken til {cheque_name} 
+
+- På adressen {cheque_address}
+
+Du kan se din ordre og downloade din faktura i sektionen"Ordreoversigt" under din konto ved at klikke på "Min konto" fra vores hjemmeside.
+
+Tak fordi du handler hos {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

@@ -1,0 +1,9 @@
+Til lykke!
+ 
+Den ven du har sponseret, {sponsored_firstname} {sponsored_lastname} har placeret hans/hendes første ordre hos {shop_name}!
+ 
+Vi er glade for at kunne tilbyde dig en rabatkupon med værdien {discount_display} (voucher # {discount_name}) som du kan bruge ved din næste ordre.
+ 
+
+ 
+{shop_url} powered by PrestaShop™

@@ -1,0 +1,12 @@
+Hej
+
+{product} er nu på lager.
+ Endelig er denne vare på lager igen.
+
+Du kan komme til siden med varen ved at klikke på dette link: {product}
+
+Du kan bestille den nu fra vores on-line webshop.
+
+
+
+{shop_url} powered by PrestaShop™

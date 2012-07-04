@@ -1,0 +1,9 @@
+Hej {firstname} {lastname}
+ 
+Tak for din ordre hos {shop_name}
+ 
+Undtagelsesvis yder vi dig en rabat på {amount}% ved din næste ordre! Dette tilbud gælder i {days} days, så spild ikke tiden!
+
+Her er din rabatkupon: {voucher_num}
+
+Indtast denne kode ved din indkøbskurv for at få din rabat.

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>jbx_menu</name>
+	<displayName><![CDATA[Menu]]></displayName>
+	<version><![CDATA[2.8.1]]></version>
+	<description><![CDATA[Add a new menu in your shop.]]></description>
+	<author><![CDATA[Web-Scope]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

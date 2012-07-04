@@ -1,0 +1,9 @@
+Hola.   
+
+Missatge de {shop_name}
+
+Ha rebut un missatge nou referent a la comanda nº {id_order}:
+
+{message}
+
+{shop_name} gestionada amb PrestaShop™

@@ -1,0 +1,3 @@
+Tak fordi du har handlet hos {shop_name}. Var du tilfreds med vores service? Skriv venligst en anmeldelse og vurder os.
+
+{shop_url} powered by PrestaShop™

@@ -1,0 +1,15 @@
+{firstname_friend} {lastname_friend}, kom og vær med!
+ 
+Din ven {firstname} {lastname} vil gerne sponsere dig hos {shop_name}!
+ 
+Bliv sponseret og vind en rabatkupon med værdien {discount}!
+ 
+Det er meget nemt at melde sig til. Bare klik på denne link:
+
+{shop_url}{link}
+ 
+Når du tilmelder dig, må du ikke glemme at angive e-mail-adressen for din sponsor-ven: {email}.
+ 
+
+ 
+{shop_url} powered by PrestaShop™

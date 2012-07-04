@@ -1,0 +1,32 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{newsletter}prestashop>newsletter_ffb7e666a70151215b4c55c6268d7d72'] = 'Butlletí';
+$_MODULE['<{newsletter}prestashop>newsletter_804a924e464fd21ed92f820224c4091d'] = 'Genera un arxiu .CSV per als enviaments massius';
+$_MODULE['<{newsletter}prestashop>newsletter_c3987e4cac14a8456515f0d200da04ee'] = 'Tots els països';
+$_MODULE['<{newsletter}prestashop>newsletter_fa01fd956e87307bce4c90a0de9b0437'] = 'País dels clients';
+$_MODULE['<{newsletter}prestashop>newsletter_c0859b0a5241dff468da2a9a93c3284f'] = 'Aplicar un filtre país dels clients.';
+$_MODULE['<{newsletter}prestashop>newsletter_f2ab5e3c58e5dbe15615f0060d036956'] = 'Subscriptors del butlletí';
+$_MODULE['<{newsletter}prestashop>newsletter_99006a61d48499231e1be92241cf772a'] = 'Filtrar subscriptors del butlletí.';
+$_MODULE['<{newsletter}prestashop>newsletter_7e3a51a56ddd2846e21c33f05e0aea6f'] = 'Tots els clients';
+$_MODULE['<{newsletter}prestashop>newsletter_39f7a3e2b56e9bfd753ba6325533a127'] = 'Subscriptors';
+$_MODULE['<{newsletter}prestashop>newsletter_011d8c5d94f729f013963d856cd78745'] = 'No subscrits';
+$_MODULE['<{newsletter}prestashop>newsletter_793ee192a9124cd6f529460eef17d3e5'] = 'Possibles subscriptors';
+$_MODULE['<{newsletter}prestashop>newsletter_7b15c043d66fecc45c8752592aa38e38'] = 'Filtrar possibles subscriptors';
+$_MODULE['<{newsletter}prestashop>newsletter_cbfbc813d2b33a2c264e878e31cf2cc0'] = 'No s\'han trobat clients amb aquests filtres!';
+$_MODULE['<{newsletter}prestashop>newsletter_f8db2243069bf76570a084ea11d1c667'] = 'L\'arxiu .CSV ha estat exportat amb èxit';
+$_MODULE['<{newsletter}prestashop>newsletter_55caa4828d4e935c2ba9f1558f1c4edd'] = 'clients trobats';
+$_MODULE['<{newsletter}prestashop>newsletter_48e3d5f66961b621c78f709afcd7d437'] = 'Descarregui el fitxer';
+$_MODULE['<{newsletter}prestashop>newsletter_ba99ad4de3eb578339572fe5b082c7f0'] = 'ADVERTENCIA: Si intenta obrir aquest fitxer CSV amb un Excel, no dubti en escullir UTF-8 encoding o veurà caràcters estranys';
+$_MODULE['<{newsletter}prestashop>newsletter_d04e6ff103ecd59c2e24d89137fd772c'] = 'Error: No es pot escriure a';
+$_MODULE['<{newsletter}prestashop>newsletter_8d550e9bf69bfc7a09be6eeb1622ae23'] = 'Hi ha dues classes d\'aquest mòdul:';
+$_MODULE['<{newsletter}prestashop>newsletter_23e8f8a55548b88bfbdcd1f6ba26a010'] = 'Persones que s\'han subscrit utilitzant l\'espai butlletí al panell del client.';
+$_MODULE['<{newsletter}prestashop>newsletter_9f1f1e7064f60721a843c1006f4c0569'] = 'Aquesta serà una llista d\'adreces de correu electrònic per a les persones que vénen a la seva botiga i no es converteixi en un client, però que desitgen obtenir el seu butlletí informatiu. A través de \\\"Exportació de subscriptors al butlletí\\\" que apareix a continuació es generarà un arxiu .CSV sobre la base de dades dels subscriptors.';
+$_MODULE['<{newsletter}prestashop>newsletter_74ca54506cdbc82e3aa763ba91b8fa39'] = 'Els clients que han marcat \\\"Sí\\\" en el seu perfil per a rebre el butlletí.';
+$_MODULE['<{newsletter}prestashop>newsletter_3387c45f70871b981a14bbbdd73a5646'] = 'La secció \\\"Exportar clients\\\" sota dels filtres indica els clients als que voleu enviar un butlletí de notícies.';
+$_MODULE['<{newsletter}prestashop>newsletter_b192ab83a19105bbf1e2d1fab548249a'] = 'Exportar subscriptors';
+$_MODULE['<{newsletter}prestashop>newsletter_a60401e616125189d78605b2ddd7ff45'] = 'Generar un arxiu .CSV de la base de dades de subscriptors.';
+$_MODULE['<{newsletter}prestashop>newsletter_dbb392a2dc9b38722e69f6032faea73e'] = 'Exportar un arxiu .CSV';
+$_MODULE['<{newsletter}prestashop>newsletter_4713ef5f2d6fc1e8f088c850e696a04b'] = 'Exportar clients';
+$_MODULE['<{newsletter}prestashop>newsletter_507db84221164a388b0c9f3991061ae0'] = 'Generar un arxiu .CSV a partir de les dades de clients';

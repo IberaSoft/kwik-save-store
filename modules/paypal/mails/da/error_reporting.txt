@@ -1,0 +1,9 @@
+Hej
+
+Fejlmeddelelse fra dit PayPalAPI-modul.
+
+En kunde har oplevet et problem med modulet PayPalAPI, se rapporten:
+
+{logs}
+
+{shop_url} powered by PrestaShop™

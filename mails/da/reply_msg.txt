@@ -1,0 +1,4 @@
+{reply}
+
+Svar venligst ikke på denne meddelelse med din e-mail-klient, vi modtager nemlig ikke din meddelelse.
+For at svare, bør du udelukkende bruge denne link: {link}

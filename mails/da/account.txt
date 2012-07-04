@@ -1,0 +1,20 @@
+Hej {firstname} {lastname}
+
+Tak fordi du oprettede din konto hos {shop_name}.
+
+Dine login-kontooplysninger:
+
+E-mail-adresse: {email}
+Adgangskode: {passwd}
+ 
+Du kan nu lægge ordrer i vores webshop: {shop_url}
+
+Sikkerhedstips:
+
+* Opbevar altid dine kontooplysninger sikkert.
+* Vis ikke dine oplysninger til nogen.
+* Skift din adgangskode tit.
+* Hvis du mistænker nogen for at have set dine login-oplysninger, så kontakt os med det samme.
+
+
+{shop_url} powered by PrestaShop™

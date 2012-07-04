@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd">
+<html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Mensaje de {shop_name}</title></head>
+
+<body>
+	<table style="font-family: Verdana,sans-serif; font-size: 11px; color: rgb(55, 73, 83); width: 550px;">
+		<tbody><tr>
+			<td align="left">
+				<a href="%7Bshop_url%7D" title="{shop_name}"><img alt="{shop_name}" src="%7Bshop_logo%7D" style="border: medium none ;"></a>
+			</td>
+		</tr>
+		<tr><td> </td></tr>
+		<tr>
+			<td align="left">Hola <strong style="color: rgb(219, 52, 132);">{firstname} {lastname}</strong>.</td>
+		</tr>
+		<tr><td> </td></tr>
+		<tr>
+			<td style="padding: 0.5em 1em; background-color: rgb(219, 52, 132); color: rgb(255, 255, 255); font-size: 12px; font-weight: bold;" align="left">Informació sobre 
+			la seva comanda nº {id_order}</td>
+		</tr>
+		<tr><td> </td></tr>
+		<tr>
+			<td align="left">
+				La seva comanda s'ha rebut correctament i s'enviarà tan aviat 
+				com rebem la notificació del pagament.
+			</td>
+		</tr>
+		<tr><td> </td></tr>
+		<tr>
+			<td align="left">
+				Recordi que ha sol·licitat efectuar el pagament mitjançant xec. 
+				Si us plau, inclogui al seu xec:
+				<br><br>
+				- la quantitat de <b>{total_paid}</b>
+				<br><br>
+				- pagader a <b>{cheque_name}</b>
+				<br><br>
+				- enviar a <b>{cheque_address}</b>
+			</td>
+		</tr>
+		<tr><td> </td></tr>
+		<tr>
+			<td align="left">
+				Pot revisar aquesta comanda i descarregar la factura des de la 
+				secció <a href="%7Bshop_url%7Dhistory.php" style="color: rgb(219, 52, 132); font-weight: bold; text-decoration: none;">"Historial 
+				i detalls de les seves comandes"</a> del seu compte prement 
+				sobre
+				<a href="%7Bshop_url%7Dmy-account.php" style="color: rgb(219, 52, 132); font-weight: bold; text-decoration: none;">"El 
+				meu compte"</a> a la nostra pàgina web.
+			</td>
+		</tr>
+		<tr><td> </td></tr>
+		<tr>
+			<td style="border-top: 1px solid rgb(217, 218, 222); font-size: 10px;" align="center">
+				<a href="%7Bshop_url%7D" style="color: rgb(219, 52, 132); font-weight: bold; text-decoration: none;">{shop_name}</a> està 
+				gestionada amb <a href="http://www.prestashop.com/" style="text-decoration: none; color: rgb(55, 73, 83);">PrestaShop™</a>
+			</td>
+		</tr>
+	</tbody></table>
+</body></html>

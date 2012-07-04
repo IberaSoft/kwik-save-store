@@ -1,0 +1,10 @@
+Hej {firstname} {lastname}
+		
+Betalingen for din ordre #{id_order} er blevet refunderet.
+
+Du kan se din ordre og downloade din faktura i sektionen"Ordreoversigt" under din konto ved at klikke på "Min konto" fra vores hjemmeside.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

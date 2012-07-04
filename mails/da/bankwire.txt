@@ -1,0 +1,22 @@
+Hej {firstname} {lastname}
+
+Din ordre #{id_order} er blevet placeret og vil blive afsendt, når vi har modtaget din betaling.
+
+Vær opmærksom på, at du har valgt at betale via bankoverførsel. Send venligst betalingen til: 
+
+{bankwire_owner}
+
+{bankwire_details}
+
+{bankwire_address}
+
+Det totale beløb er: {total_paid}
+
+Du kan se eller downloade din faktura i sektionen"Ordreoversigt"  under din konto ved at klikke på "Min konto" fra vores hjemmeside.
+
+Tak fordi du handler hos {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

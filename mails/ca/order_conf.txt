@@ -1,0 +1,36 @@
+Hola {firstname} {lastname}, gràcies per comprar a {shop_name}.
+
+Dades de la comanda   
+- Comanda: {order_name} rebuda el {date} 
+- Pagament: {payment}   
+- Articles {total_products}   
+- Descomptes {total_discounts}
+- Empaquetat per a regal {total_wrapping}
+- Despeses d'enviament {total_shipping}
+- Total pagat {total_paid}
+
+Enviament
+- Empresa de transport: {carrier}
+- ADREÇA D'ENVIAMENT 
+{delivery_firstname} 
+{delivery_lastname} 
+{delivery_address1} 
+{delivery_address2} 
+{delivery_city} 
+{delivery_postal_code} 
+{delivery_country} 
+{delivery_state} 
+{delivery_phone} 
+- ADREÇA DE FACTURACIÓ 
+{invoice_firstname} 
+{invoice_lastname} 
+{invoice_address1} 
+{invoice_address2} 
+{invoice_postal_code} - {invoice_city} 
+{invoice_country} 
+{invoice_state} 
+{invoice_phone}   
+
+Pot revisar aquesta comanda i descarregar la factura des de la secció "Historial i detalls de les seves comandes" del seu compte prement sobre "El meu compte" a la nostra pàgina web.
+
+{shop_name} està gestionada amb PrestaShop™

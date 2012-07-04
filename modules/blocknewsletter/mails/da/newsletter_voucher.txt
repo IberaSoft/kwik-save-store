@@ -1,0 +1,9 @@
+Hej
+
+I forbindelse med dit abonnement på vores nyhedsbrev, har vi fornøjelsen at tilbyde dig denne rabatkupon: {discount}
+
+{shop_name} - {shop_url}
+
+
+
+{shop_url} Powered by PrestaShop™

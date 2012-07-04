@@ -1,0 +1,15 @@
+Hej {firstname} {lastname}
+
+Tak fordi du handlede hos {shop_name}.
+
+Du har {nbProducts} vare(r) du kan downloade.
+
+Dette er et direkte link til disse varer:
+{virtualProducts}
+
+Du kan se din ordre og downloade din faktura i sektionen"Ordreoversigt" under din konto ved at klikke på "Min konto" fra vores hjemmeside.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

@@ -1,0 +1,11 @@
+Hola {firstname} {lastname}.
+
+Informació sobre la seva comanda nº {id_order}
+
+L'informem de la creació d'un val descompte al seu favor relacionat amb la seva comanda nº {id_order}.
+
+Aquest és el codi del seu val descompte: {voucher_num}, per la quantitat de  {voucher_amount}. 
+
+Per fer efectiu aquest descompte, simplement copiï i enganxi aquest codi durant el procés de pagament de la seva comanda.
+
+{shop_name} gestionada amb PrestaShop™

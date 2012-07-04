@@ -1,0 +1,21 @@
+﻿Hola {firstname} {lastname}.
+
+La seva comanda nº {order_name} s'ha rebut correctament i s'enviarà tan aviat com rebem la notificació del pagament. Recordi que ha sol.licitat efectuar el pagament mitjançant xec.
+
+Si us plau, inclogui al seu xec:
+
+- la quantitat de {total_paid}
+
+- pagader a {cheque_name}
+
+- enviar a {cheque_address}
+
+Pot revisar aquesta comanda i descarregar la factura des de la secció
+"Historial i detalls de les seves comandes" del seu compte prement 
+sobre "El meu compte" a la nostra pàgina web.
+
+Gràcies per comprar a {shop_name}.
+
+{shop_name} - {shop_url}
+
+{shop_url} està gestionada amb PrestaShop™

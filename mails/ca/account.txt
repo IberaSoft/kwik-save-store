@@ -1,0 +1,15 @@
+Hola {firstname} {lastname}.
+
+Dades d'accés al seu compte:
+- Correu electrònic: {email} 
+- Contrasenya: {passwd}   
+
+Consells sobre seguretat: 
+- Mantingui ocultes les dades del seu compte. 
+- No mostri a ningú les dades d'accés al seu compte. 
+- Canviï regularment la seva contrasenya. 
+- Si sospita que algú està usant il·legalment el seu compte, notifiqui-ho immediatament.   
+
+Ja pot realitzar comandes a la nostra botiga: {shop_name}.
+
+{shop_name} gestionada amb PrestaShop™

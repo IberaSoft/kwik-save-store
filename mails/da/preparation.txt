@@ -1,0 +1,10 @@
+Hej {firstname} {lastname}
+		
+Vi er ved at behandle din ordre #{id_order}.
+
+Du kan se din ordre og downloade din faktura i sektionen"Ordreoversigt" under din konto ved at klikke på "Min konto" fra vores hjemmeside.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

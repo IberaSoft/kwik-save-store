@@ -1,0 +1,15 @@
+Hej {firstname} {lastname}
+
+Din gæstekonto er blevet opgraderet til en kundekonto:
+
+E-mail-adresse: {email}
+Adgangskode: {passwd}
+
+
+Du kan få adgang til din konto på vores hjemmeside: {shop_url}
+
+Vær sikker på, at andre ikke ser dine login-oplysninger.
+
+
+
+{shop_url} powered by PrestaShop™

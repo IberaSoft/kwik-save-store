@@ -1,0 +1,9 @@
+Hola {firstname} {lastname}.
+
+Informació sobre la seva comanda nº {id_order}
+
+El pagament de la seva comanda s'ha realitzat correctament.
+
+Pot revisar aquesta comanda i descarregar la factura des de la secció "Historial i detalls de les seves comandes" del seu compte prement sobre "El meu compte" a la nostra pàgina web.
+
+{shop_name} gestionada amb PrestaShop™

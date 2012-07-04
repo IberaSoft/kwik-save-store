@@ -1,0 +1,12 @@
+Hej {firstname} {lastname}
+		
+Status på din ordre #{id_order}.
+	
+Desværre, er en eller flere enheder i din ordre #{id_order} ikke på lager. Dette kan forlænge leveringstiden. Dette er vi meget kede af, og vi arbejder på højtryk for at få din vare afsted hurtigst muligt.
+
+Du kan se din ordre og downloade din faktura i sektionen"Ordreoversigt" under din konto ved at klikke på "Min konto" fra vores hjemmeside.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

@@ -1,0 +1,11 @@
+Hola {firstname} {lastname},
+
+Aquest missatge es per notificar-te de la creació de una linea de credit per la teva comanda #{id_order}.
+
+POts veure aquesta linea de credit i baixar-te la factura de l'apartat "Obtenir Comanda" de la teva compte del selecionant "La teu cpmte" de la nostra web.
+
+Gracies per comprar a {shop_name}.
+
+{shop_name} - {shop_url}
+
+{shop_name} gestionada amb PrestaShop™

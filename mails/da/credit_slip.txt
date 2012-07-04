@@ -1,0 +1,12 @@
+Hej {firstname} {lastname}
+
+Vi kan hermed informere dig om, at der er oprettet en kreditnota for din ordre #{id_order}.
+
+Du kan se denne kreditnota eller downloade din faktura ved at klikke på linken  "Reklamationer",  når du har klikket på "Min konto" på vores hjemmeside.
+
+Tak fordi du handler hos {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

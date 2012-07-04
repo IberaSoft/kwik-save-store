@@ -1,0 +1,4 @@
+{employee} ønskede at videresende denne udveksling af beskeder til dig. 
+Kommentar: {comment}
+
+{messages}

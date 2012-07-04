@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<links>
+	<link>
+		<url>http://prestashopic.com/eshop/product.php?id_product=20</url>
+		<img>es0.jpg</img>
+	</link>
+	<link>
+		<url>http://prestashopic.com/eshop/product.php?id_product=12</url>
+		<img>es1.jpg</img>
+	</link>
+	<link>
+		<url>http://prestashopic.com/eshop/product.php?id_product=8</url>
+		<img>es2.jpg</img>
+	</link>
+	<link>
+		<url>http://prestashopic.com/eshop/product.php?id_product=18</url>
+		<img>es3.jpg</img>
+	</link>
+</links>

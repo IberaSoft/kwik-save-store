@@ -1,0 +1,15 @@
+Hola {firstname} {lastname},
+
+Heu rebut un missatge d'un client des de la seva botiga: {shop_name}
+
+Detall del missatge:
+
+E-mail: {email}
+
+Missatge:
+
+{message}
+
+
+
+{shop_url} gestionada per PrestaShop™

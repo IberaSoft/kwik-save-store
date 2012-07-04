@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>slideric</name>
+	<displayName><![CDATA[Slideric - JQuery Nivo Slider]]></displayName>
+	<version><![CDATA[2.0]]></version>
+	<description><![CDATA[Slide the images with choosen languages | Prestashopic.com]]></description>
+	<author><![CDATA[]]></author>
+	<tab><![CDATA[Home]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

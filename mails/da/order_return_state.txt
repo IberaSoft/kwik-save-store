@@ -1,0 +1,10 @@
+Hej {firstname} {lastname}
+
+Din reklamation #{id_order_return}  har ændret status til "{state_order_return}".
+
+Du kan se din ordre og downloade din faktura i sektionen"Ordreoversigt" under din konto ved at klikke på "Min konto" fra vores hjemmeside.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

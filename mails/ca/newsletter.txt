@@ -1,0 +1,5 @@
+Butlletí de notícies de {shop_name}
+
+{message}
+
+{shop_name} gestionada amb PrestaShop™
