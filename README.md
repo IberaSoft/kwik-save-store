@@ -9,22 +9,26 @@
 ## Getting Started
 
 To install PrestaShop, you will need a remote web server, or on your computer installed Wamp (or Mamp, Xampp, Lamp, etc) with access to a database like MySQL.
+
 You also will need access to phpMyAdmin to create a database to indicate the information in the database with the installer.
 
 ### Prerequisites
 
 These [instructions][1] will get you a copy of the project up and running on your local machine for development and/or testing purposes.
+
 See ¨Uploading PrestaShop¨ for how to deploy the project on a live system.
 
 ### Installation
 
 Simply go to your PrestaShop web directory and use installer ;)
+
 For any PHP error please got to [specifics settings][1]
+
 For any extra documentation (how-to), please read the Prestashop [online documentation][2]
 
 #### Theme and Data Base
 
-- ***Theme name:***      themes > `yourkwiksavev2`
+- ***Custom Theme:***    themes > `yourkwiksavev2`
 - ***Data Base Name:***  adminYKS > backups > `freepro_yourkwiksave.sql`
 
 > Note: localhost settings for this project are in config > settings.inc.php
